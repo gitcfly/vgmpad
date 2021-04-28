@@ -2,9 +2,13 @@
 相关文件描述：  
 pcgmkey 虚拟手柄mac-pc端  
 pcgmkey.exe 虚拟手柄windows-pc端  
-app-relase.apk 虚拟手柄安卓端  
+vi-gmkbd.apk 虚拟手柄安卓端  
 
 启动命令：
+
+PC端启动方式
+
+双击文件启动，或者执行以下命令启动(port和pass参数可选填)
 
 ./pcgmkey port=7320 pass=gmkey
 
