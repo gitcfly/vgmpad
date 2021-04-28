@@ -2,7 +2,7 @@
 相关文件描述：  
 pcgmkey 虚拟手柄mac-pc端  
 pcgmkey.exe 虚拟手柄windows-pc端  
-vi-gmkbd.apk 虚拟手柄安卓端  
+VgmPad.apk 虚拟手柄安卓端  
 
 启动命令：
 
