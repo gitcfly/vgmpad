@@ -10,6 +10,6 @@ PC端启动方式
 
 双击文件启动，或者执行以下命令启动(port和pass参数可选填)
 
-./pcgmkey port=7320 pass=gmkey
+./pcgmkey
 
-参数说明： port: 服务监听端口 pass: 认证密码
+参数说明：服务监听7320端口
