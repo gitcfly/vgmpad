@@ -13,3 +13,8 @@ PC端启动方式
 ./pcgmkey
 
 参数说明：服务监听7320端口
+
+![image](Lark20210711-213338.jpeg)
+![image](Lark20210711-213332.jpeg)
+![image](Lark20210711-213327.jpeg)
+![image](Lark20210711-213315.jpeg)
