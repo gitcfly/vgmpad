@@ -1,4 +1,4 @@
-# 资源文件下载
+# 安卓虚拟手柄
 相关文件描述：  
 pcgmkey 虚拟手柄mac-pc端  
 pcgmkey.exe 虚拟手柄windows-pc端  
